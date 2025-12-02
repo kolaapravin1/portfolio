@@ -8,23 +8,23 @@ const _geistMono = Geist_Mono({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
   title: "Kolaa Pravin - Developer Portfolio",
-  description: "Technical & Operational Manager | MERN Stack & Cloud Developer",
+  description: "MERN Stack & Cloud Developer",
   icons: {
     icon: [
       {
-        url: "/icon-light-32x32.png",
+        url: "/cloud.png",
         media: "(prefers-color-scheme: light)",
       },
       {
-        url: "/icon-dark-32x32.png",
+        url: "/cloud.png",
         media: "(prefers-color-scheme: dark)",
       },
       {
-        url: "/icon.svg",
+        url: "/cloud.png",
         type: "image/svg+xml",
       },
     ],
-    apple: "/apple-icon.png",
+    apple: "/cloud.png",
   },
 };
 
