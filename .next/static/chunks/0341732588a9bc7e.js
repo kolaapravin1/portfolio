@@ -1,0 +1,1 @@
+(globalThis.TURBOPACK||(globalThis.TURBOPACK=[])).push(["object"==typeof document?document.currentScript:void 0,54272,e=>{e.v("/_next/static/media/gcp-fire.a4f1e669.gif")}]);
